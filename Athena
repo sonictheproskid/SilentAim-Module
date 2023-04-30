@@ -75,7 +75,4 @@
                                 end
                                 end)
                                 
-                                spawn(function()
-                                if Aiming then
-                                    print("Ok")
-                                end)
+                           
