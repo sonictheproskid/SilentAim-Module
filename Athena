@@ -74,3 +74,8 @@
                                     CurrentCamera.CFrame = CFrame.lookAt(CurrentCamera.CFrame.Position, Hit.Position)
                                 end
                                 end)
+                                
+                                spawn(function()
+                                if Aiming then
+                                    print("Ok")
+                                end)
